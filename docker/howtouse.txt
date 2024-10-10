@@ -1,0 +1,11 @@
+move folder to home directory
+
+run camera_boot.sh
+
+go to settings, account, then enable automatic login
+
+# change run.sh docker image tag for different source locations
+
+deepstreamv7 = camerausb
+rtsptruckscale = truck scale
+rtspintakeb6 = truck dump at intake b6

@@ -1,0 +1,7 @@
+classes=2
+train=/home/dt16/SlimYOLOv3/yolov3/data/truck/train.txt
+valid=/home/dt16/SlimYOLOv3/yolov3/data/truck/val.txt
+#names=/home/dt16/SlimYOLOv3/yolov3/data/truck.names
+names=./truck.names
+backup=backup/
+eval=truck
